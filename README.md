@@ -31,6 +31,19 @@ A Lú Biju é uma loja de venda de bijuterias e acessórios. Para expandir o seu
     <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-settings.gif?raw=true">
 </h3>
 
+<h2 align="center">Demonstração [Administrativo](https://github.com/julionery/lubiju-admin-flutter-firebase)</h2>
+
+<h3 align="center">
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-login.gif?raw=true">&nbsp;&nbsp;  
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-orders.gif?raw=true">&nbsp;&nbsp;
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-news.gif?raw=true">
+</h3>
+
+<h3 align="center">
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-products.gif?raw=true">&nbsp;&nbsp;  
+    <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-cupon-sotres-mesages.gif?raw=true">
+</h3>
+
 ## :link: Como contribuir
 
 - Faça um **fork** do projeto;
