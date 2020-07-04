@@ -3,9 +3,11 @@
 </h3>
 <h1 align="center">Aplicativo Lú Biju</h1>
 
-### Aplicativo de Loja Virtual feito para a Lú Biju.
+### :page_with_curl: Sobre:
 
-> [Lubiju Admin](https://github.com/julionery/flutter-firebase-toolkit-admin) - Aplicativo de gerenciamento deste app.
+A Lú Biju é uma loja de venda de bijuterias e acessórios. Para expandir o seu mercado de vendas foi elaborado o aplicativo Lú Biju.
+
+> [Lubiju Admin](https://github.com/julionery/lubiju-admin-flutter-firebase) - Aplicativo de gerenciamento do aplicativo.
 
 ### :rocket: Tecnologias:
 - [Flutter](https://flutter.dev/ "Flutter")
@@ -18,7 +20,6 @@
 - SQLite
 - Bloc Patern
 - Scoped Model
-- Image Picker
 - Google SignIn
 - Firebase Storage
 
