@@ -31,7 +31,7 @@ A Lú Biju é uma loja de venda de bijuterias e acessórios. Para expandir o seu
     <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-settings.gif?raw=true">
 </h3>
 
-<h2 align="center">Demonstração [Administrativo](https://github.com/julionery/lubiju-admin-flutter-firebase)</h2>
+<h2 align="center">Demonstração <a href="https://github.com/julionery/lubiju-admin-flutter-firebase">Administrativo</a></h2>
 
 <h3 align="center">
     <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-login.gif?raw=true">&nbsp;&nbsp;  
