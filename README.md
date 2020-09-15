@@ -9,6 +9,16 @@ A Lú Biju é uma loja de venda de bijuterias e acessórios. Para expandir o seu
 
 > [Lubiju Admin](https://github.com/julionery/lubiju-admin-flutter-firebase) - Aplicativo de gerenciamento do aplicativo.
 
+### :bookmark_tabs: Funcionalidades: 
+ - Sistema de Login/Cadastro com E-mail e Senha
+ - Visualização de Categorias e Produtos
+ - Seleção de Tamanho (P, M, G, GG) e Cores
+ - Carrinho de Compras
+ - Adicionar cupons de descontos ao pedido
+ - Cadastro de endereços para entrega ou retirar na loja
+ - Acompanhamento de pedidos
+ - Fale conosco
+ 
 ### :rocket: Tecnologias:
 - [Flutter](https://flutter.dev/ "Flutter")
 - [Firebase](https://firebase.google.com/ "Firebase")
@@ -43,6 +53,31 @@ A Lú Biju é uma loja de venda de bijuterias e acessórios. Para expandir o seu
     <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-products.gif?raw=true">&nbsp;&nbsp;  
     <img width="250px" src="https://github.com/julionery/docs/blob/master/LuBiju/lubiju-admin-cupon-sotres-mesages.gif?raw=true">
 </h3>
+
+
+### :information_source: Como Usar:
+
+Para executar corretamente esta aplicação você precisará:
+ - [Git](https://git-scm.com) e [NodeJS](https://nodejs.org/en/) já instalados;
+ - [Ambiente flutter](https://flutter.dev/docs/get-started/install) já configurado;
+ - [Criar um projeto Firebase](https://firebase.google.com/docs/projects/learn-more) e [configura-lo ao Flutter](https://firebase.google.com/docs/flutter/setup).
+
+No seu terminal digite os comandos:
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/julionery/lubiju-flutter-firebase.git
+
+# Entre na pasta do repositório
+$ cd lubiju-flutter-firebase
+
+# Execute o comando para baixar os pacotes
+$ flutter pub get
+
+# Execute a aplicação no seu emulador ou dispositivo.
+
+```
+
 
 ## :link: Como contribuir
 
