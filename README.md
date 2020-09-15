@@ -26,6 +26,9 @@ A Lú Biju é uma loja de venda de bijuterias e acessórios. Para expandir o seu
 ### :globe_with_meridians: Autenticação :
 - [Firebase Authentication](https://firebase.google.com/products/auth?hl=pt-br&gclid=Cj0KCQjwoPL2BRDxARIsAEMm9y8XhSHtYRrjL7OPk8hVPM_Qr0_xGwuc7-vYYIZ-VBIAQtphlU3LQlcaAoEAEALw_wcB)
 
+### :closed_lock_with_key: Segurança:
+- [Regras do Firebase](https://github.com/julionery/lubiju-admin-flutter-firebase/blob/master/firebase_rules.txt)
+
 ### :computer: Bibliotecas e ferramentas:
 - SQLite
 - Bloc Patern
